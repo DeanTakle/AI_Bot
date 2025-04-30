@@ -1,0 +1,2 @@
+To get Gemma3 LLM:
+ollama pull Gemma3
